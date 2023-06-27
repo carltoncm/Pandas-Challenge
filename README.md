@@ -1,2 +1,12 @@
 # Pandas-Challenge
 This is my submission for the DA Bootcamp Module 4 Challenge-Pandas
+
+The code for this assignment is located within PyCitySchools_starter.ipynb,and an analysis of the data is provided at the beginning of the file. I will also print it below for consistency:
+
+  Based off analysis of the data provided, we are able to draw conclusions regarding different potential factors affecting student performance. First, we summarized the data across the district and then extracted each schools' metrics in a dataframe. Once extracted, it was easier to compare each school in terms of performance, grade level, spending, size, and type. 
+  Although one might expect spending to make a significant positive impact on performance, our analysis of this data appears to draw the opposite conclusion. Some of the schools with the highest per student budgets were also ones at the bottom of the list as far as overall performance. One might also expect grade level to make some impact, but within each school there is little change in the average reading and math scores as the students progress through the grades. 
+  Alternatively, size and type appear to impact performance significantly. Even though some of the schools listed reported a smaller per student budget, their smaller student populations resulted in more consistent individual attention. Based on this data, schools labeled small (less than 1000 students) or medium (between 1000-2000 students) have higher reading scores and  math scores than larger schools. While large schools reported a roughly 58% overall passing rate, small and medium schools reported 90% and 91% rates, respectively. School type (charter vs. district) also appears to be a factor in performance. Charter schools beat out district schools in every metric, eclipsing them by about 37% in overall passing rate (53%-district vs 90%-charter).
+  This analysis suggests that small-to-medium sized charter schools result in the highest levels of student performance, while larger district schools result in the lowest levels of student performance-regardless of budget.
+
+I utilized class activities and PowerPoints to develop this code. I also attended office hours with my instructor Brett Barnes and TA Ally Qi. I received additional assistance/advice from classmates Tiffany Conrad, Iman Malih, and Emily Shewcraft. Please let me know if you have any questions-thank you for your time!
+
